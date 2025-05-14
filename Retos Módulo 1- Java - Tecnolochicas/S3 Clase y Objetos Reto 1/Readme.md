@@ -1,7 +1,7 @@
-# Reto1 S3 – Simulador de Reservas de Vuelo en Java
+# 🚀 Reto1 S3 – Simulador de Reservas de Vuelo en Java
 
 ### 🎯 Objetivo general de la sesión
-⚒️ 🔎 Comprender los fundamentos de la programación orientada a objetos en Java, enfocándose en la creación y uso de clases y objetos, definición de métodos, control de acceso mediante modificadores y uso de Optional para el manejo seguro de valores nulos.
+🔎 Comprender los fundamentos de la programación orientada a objetos en Java, enfocándose en la creación y uso de clases y objetos, definición de métodos, control de acceso mediante modificadores y uso de Optional para el manejo seguro de valores nulos.
 
 ### 🎯 Objetivo del reto
 Diseñar un sistema básico de reservas de vuelo aplicando los fundamentos de la Programación Orientada a Objetos en Java. Practicarás la creación de clases y objetos, el uso de atributos static y final, así como la definición de métodos con parámetros y valores de retorno.
