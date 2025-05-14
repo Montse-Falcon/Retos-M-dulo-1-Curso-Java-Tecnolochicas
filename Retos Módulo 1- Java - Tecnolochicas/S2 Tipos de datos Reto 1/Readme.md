@@ -1,4 +1,5 @@
-# 🚀 Reto2 S2 – SimuladorFarmacia en Java
+# 🚀 Reto1 S2 – Simulador Farmacia en Java
+
 ### 🎯 Objetivo general de la sesión
 ⚒️ Identificar y comprender los tipos de datos, variables, operadores, estructuras condicionales y ciclos en Java, para desarrollar programas con lógica básica mantenible y estructurada.
 
