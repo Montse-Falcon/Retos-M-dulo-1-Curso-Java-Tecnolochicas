@@ -1,17 +1,17 @@
-# Retos Módulo 1 – Tecnolochicas Java
+# 🚀 Retos Módulo 1 – Tecnolochicas Java
 
-Este repositorio contiene los **1 - 7 retos** realizados en el **Módulo 1** del curso **Tecnolochicas de Java**.
+Hola soy Montse y este es mi repositorio de los** 7 retos** realizados en el **Módulo 1** del curso **Tecnolochicas de Java**.
 
-## Descripción
+## 📄 Descripción
 En este módulo se abordan los fundamentos básicos de Java:
-- Sintaxis y estructura de un programa
-- Uso de variables y tipos de datos
-- Operadores y control de flujo
-- Métodos y modularización
-- 
-Cada carpeta `retoN/` agrupa el código fuente y los enunciados del desafío N.
+🔹 Sintaxis y estructura de un programa Java
+🔹 Variables y tipos de datos
+🔹 Operadores y control de flujo (if, switch, loops)
+🔹 Métodos y modularización
 
-## Contenido del repositorio
+Cada carpeta `retoN/` agrupa el código fuente, los objetivos y una breve explicación de la solución de los retos. 
+
+## 📂 Contenido del repositorio
 
 | Carpeta         | Descripción                              |
 |-----------------|------------------------------------------|
@@ -23,5 +23,3 @@ Cada carpeta `retoN/` agrupa el código fuente y los enunciados del desafío N.
 | `reto6/`        | [Descripción breve del reto 6]           |
 | `reto7/`        | [Descripción breve del reto 7]           |
 | `reto8/`        | [Descripción breve del reto 8]           |
-
-> **Tip**: reemplaza cada “[Descripción breve…]” con algo como “Hola Mundo y estructura básica” o “Condicionales y bucles”, según corresponda.
