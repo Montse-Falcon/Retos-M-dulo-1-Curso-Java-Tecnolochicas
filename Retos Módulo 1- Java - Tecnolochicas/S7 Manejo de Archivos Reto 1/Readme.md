@@ -1,4 +1,4 @@
-# Reto1 S7 – Simulador de Facturas en Java
+# Reto1 S7 – Registro de Simulación en Java
 
 ### 🎯 Objetivo general de la sesión
 ⚒️ Aprender a utilizar la API java.nio.file (NIO.2) para manejar archivos y directorios de forma eficiente y segura, comprendiendo desde las operaciones básicas de lectura y escritura hasta funciones avanzadas como copiar, mover, verificar permisos y aplicar buenas prácticas de manejo de archivos en Java.
