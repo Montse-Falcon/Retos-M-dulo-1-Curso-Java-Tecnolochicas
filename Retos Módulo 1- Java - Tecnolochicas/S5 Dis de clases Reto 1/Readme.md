@@ -1,4 +1,4 @@
-# Reto1 S5 – Simulador de Cuenta Fiscal en Java
+# 🚀 Reto1 S5 – Simulador de Unidades de Emergencia en Java
 
 ### 🎯 Objetivo general de la sesión
 ⚒️ Explorar los conceptos fundamentales de la programación orientada a objetos en Java: **herencia, composición, interfaces, clases abstractas y polimorfismo**, para escribir código más limpio, reutilizable y flexible.
