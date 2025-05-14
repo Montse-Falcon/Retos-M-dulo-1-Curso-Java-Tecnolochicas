@@ -1,4 +1,4 @@
-# Reto1 S6 – Registro de Muestras en Java
+# 🚀 Reto1 S6 – Registro de Muestras en Java
 
 ### 🎯 Objetivo general de la sesión
 ⚒️ Comprender los elementos fundamentales de una clase en Java, tales como los constructores, métodos especiales (`equals()`, `hashCode()`, `toString()`), el uso de `record` y `Objects.equals()`, así como los principios de encapsulación e inmutabilidad, para estructurar clases seguras, limpias y eficientes.
