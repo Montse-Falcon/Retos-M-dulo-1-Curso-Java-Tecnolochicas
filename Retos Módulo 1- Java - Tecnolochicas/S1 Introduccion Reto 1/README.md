@@ -1,4 +1,4 @@
-# Reto1 S1 – Registro de Paciente en Java
+# 🚀 Reto1 S1 – Gestión de Pacientes en Java
 
 ### 🎯 Objetivo general de la sesión
 ⚒️ Identificar y comprender los conceptos básicos de Java, incluyendo Programación Orientada a Objetos (POO), para aplicarlos en la creación de programas sencillos.
