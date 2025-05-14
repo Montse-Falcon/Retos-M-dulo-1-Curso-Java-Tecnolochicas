@@ -1,4 +1,4 @@
-# Reto2 S1 – Gestión de Entradas  en Java
+# 🚀 Reto2 S1 – Gestión de Entradas en Java
 ### 🎯 Objetivo general de la sesión
 ⚒️ Identificar y comprender los conceptos básicos de Java, incluyendo Programación Orientada a Objetos (POO), para aplicarlos en la creación de programas sencillos.
 
